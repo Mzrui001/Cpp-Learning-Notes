@@ -28,6 +28,7 @@
 #include <array>
 // 使用vector,array头文件才可以使用vector,array类相关函数
 
+// 添加的函数需要在main函数前或头文件中声明才能使用
 void Cpp_Start();
 void Simon(int);
 int Square(int);
